@@ -1,0 +1,13 @@
+<input type="email" placeholder="Email của bạn">
+                <textarea placeholder="Nội dung liên hệ"></textarea>
+                <button type="submit">Gửi</button>
+            </form>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Tempearl. Tất cả các quyền được bảo lưu.</p>
+    </footer>
+</body>
+</html>
